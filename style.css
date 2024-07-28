@@ -1,0 +1,43 @@
+body {
+    background: black;
+  }
+  
+  p {
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    color: cyan;
+  }
+  body {
+    background-image: url(MV5BMjIyNDE5MDE3N15BMl5BanBnXkFtZTgwNzg1MjgzNTM-._V1_.jpg);
+    background-color: black;
+  }
+  h1 {
+    font-weight: bold;
+    font-family: impact;
+    color: white;
+  }
+  img {
+    width: 300px;
+  }
+  a {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+    border: grey solid px;
+    text-decoration: none;
+    margin-left: 10px
+  }
+  a:hover {
+    color: orange;
+  }
+  .Navigation {
+    background: black;
+  }
+  h2 {
+    font-family: impact,Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+  }
+  h3 {
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
